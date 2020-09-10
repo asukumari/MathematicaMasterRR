@@ -5,4 +5,6 @@ All Wolfram Mathematica releated projects goes here!
 # Purpose:
 Repository for all Wolfram Mathematica related projects.
 # Projects:
-- Power programming with MMA: David Wagner. 1996. ISBN: 007912237X 
+- Textbook
+  - MOE Warren Smith. 2007. ISBN: 9780071593755
+  - Power programming with MMA: David Wagner. 1996. ISBN: 007912237X 
